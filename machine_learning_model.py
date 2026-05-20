@@ -397,7 +397,6 @@ print("   /content/model_columns.pkl")
 print("   /content/thresholds.pkl  ← {'warning': X, 'safe': Y}")
 print("   /content/class_labels.pkl")
 
-!pip install streamlit -q
 
 """
 ==========================================================================
